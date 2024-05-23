@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer with a strong focus 
 
 ### 🌱 Currently Learning:
 
-- Diving into the realm of UI/UX and Graphic design to improve my front-end knowledge. 
+- Diving into the realm of System design to improve my knowledge on scalable backends. 
 - Mastering Docker to streamline deployment processes and containerization.
 
 
