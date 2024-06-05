@@ -51,6 +51,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer with a strong focus 
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
+
 ---
 
 ### 📫 Let's Connect:
